@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/cardview_light_background"
+    android:clickable="true">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:id="@+id/cpf"
+        android:nextFocusDown="@+id/rg"
+
+        android:hint="CPF" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_below="@+id/cpf"
+        android:layout_alignLeft="@+id/cpf"
+        android:layout_alignStart="@+id/cpf"
+        android:layout_marginTop="23dp"
+        android:nextFocusDown="@+id/data_nasc"
+        android:id="@+id/rg"
+        android:hint="RG" />
+
+    <Button
+        android:text="Proximo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:stateListAnimator="@null"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/next2" />
+
+    <CalendarView
+        android:id="@+id/calendarView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView13"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="5dp"
+        android:layout_above="@+id/next2"
+        android:layout_alignParentEnd="true"
+        />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rg"
+        android:layout_marginTop="15dp"
+        android:layout_centerHorizontal="true"
+        android:text="Data de nascimento:" />
+
+</RelativeLayout>
