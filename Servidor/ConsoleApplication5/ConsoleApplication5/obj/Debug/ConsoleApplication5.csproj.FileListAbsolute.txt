@@ -1,0 +1,8 @@
+c:\users\edupa\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+c:\users\edupa\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+c:\users\edupa\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+c:\users\edupa\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+c:\users\edupa\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+c:\users\edupa\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\edupa\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edupa\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\Newtonsoft.Json.xml
